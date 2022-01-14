@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Poomer
+- 👋 Hi, I’m @Poomer ( Veerasak Nichayapun )
 - 👀 I’m interested in Machine Learning, AI and data analytics stuff !!!!
 - 🌱 I’m currently learning ML, AI and other data analytics applications
 - 💞️ I’m looking to collaborate on data-driven solutions and projects
